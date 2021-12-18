@@ -1,4 +1,4 @@
-﻿#CISA-provided IPs containing indicators for Threat Actors APT 41, BazarLoader, Conti, Darkside, Dopplepaymer, FIN7, Hancitor, Hidden Dragon, IcedID, MountLocker, Phobos, Ryuk, StrongPity, Trickbot, and Ursnif. 
+#CISA-provided IPs containing indicators for Threat Actors APT 41, BazarLoader, Conti, Darkside, Dopplepaymer, FIN7, Hancitor, Hidden Dragon, IcedID, MountLocker, Phobos, Ryuk, StrongPity, Trickbot, and Ursnif. 
 #Most of the indicators were found by a trusted partner pivoting from identified Cobalt Strike activity.
 #20211013-ZD
 103.140.186.35
@@ -140,3 +140,23 @@
 146.0.72.84
 91.92.109.174
 87.120.37.120
+#BlackMatter
+#20210923-ZD
+134.122.8.6
+138.68.20.172
+138.68.236.160
+138.68.44.111
+143.198.139.238
+143.198.238.6
+159.203.67.47
+159.65.78.125
+159.89.137.174
+159.89.155.210
+165.227.100.55
+165.227.22.24
+167.172.25.127
+167.71.161.69
+167.71.85.110
+167.99.97.228
+174.138.31.156
+89.252.138.195
